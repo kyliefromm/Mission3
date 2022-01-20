@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{E8998195-953E-4661-9F81-52816F1A970C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission-2/Models/GradeCalcModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission-2/Views/Home/GradeCalc.cshtml">
     <Files>
       <File FileName="Mission-2/Startup.cs" Line="41" Column="16" />
       <File FileName="Mission-2/Program.cs" />
@@ -9,8 +9,10 @@
       <File FileName="Mission-2/Models/GradeCalcModel.cs" Line="42" Column="6" />
       <File FileName="Mission-2/Views/Shared/_Layout.cshtml" />
       <File FileName="Mission-2/Views/Home/Index.cshtml" />
-      <File FileName="Mission-2/Properties/launchSettings.json" />
+      <File FileName="Mission-2/Properties/launchSettings.json" Line="1" Column="1" />
       <File FileName="Mission-2/wwwroot/js/gradecalc.js" />
+      <File FileName="Mission-2/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Mission-2/Views/Home/GradeCalc.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,12 +20,12 @@
           <Node name="Mission-2" expanded="True">
             <Node name="Mission-2" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="GradeCalcModel.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="GradeCalc.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
